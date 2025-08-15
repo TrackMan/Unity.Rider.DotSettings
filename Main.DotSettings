@@ -155,4 +155,5 @@
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=unstaged/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=warnicon/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=Xyzi/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DED7798D82D02045ABA68FC339C76DFA/Field/=EX_005FNAME/Expression/@EntryValue">constant("exception")</s:String></wpf:ResourceDictionary>
 </wpf:ResourceDictionary>
